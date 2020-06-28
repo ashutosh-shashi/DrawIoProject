@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-06-28T13:31:14.490Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" version="13.3.5" etag="OG_qa-56oVLThDO3SkOn" type="github"><diagram id="tx21uTB1hhuo_QcMBp7X">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-28T22:33:10.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="3SayjTSocg1C1TBrPQpm" version="13.3.5" type="github">
+  <diagram id="tx21uTB1hhuo_QcMBp7X" name="Page-1">
+    <mxGraphModel dx="1070" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ARynuOZsD3jAlLT-ayCz-2" value="Animal" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ARynuOZsD3jAlLT-ayCz-3" value="Dog" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ARynuOZsD3jAlLT-ayCz-4" value="&lt;b&gt;is-a&lt;/b&gt;" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="ARynuOZsD3jAlLT-ayCz-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="230" as="sourcePoint" />
+            <mxPoint x="490" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
