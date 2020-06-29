@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-06-29T03:18:06.591Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="boUYKTCugZSmLeZOjf4E" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-29T03:18:52.486Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="GThugawuwegbx9pOx3BA" version="13.3.5" type="github">
   <diagram id="1SAhC6a8pihXOCSOTlZ3" name="Page-1">
     <mxGraphModel dx="1070" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E4ltTXrUCnNlTAGxs-kE-1" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="E4ltTXrUCnNlTAGxs-kE-1" value="Interface" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="210" y="110" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E4ltTXrUCnNlTAGxs-kE-2" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="E4ltTXrUCnNlTAGxs-kE-2" value="Interface" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="364" y="110" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E4ltTXrUCnNlTAGxs-kE-3" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="E4ltTXrUCnNlTAGxs-kE-3" value="Class" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="364" y="240" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E4ltTXrUCnNlTAGxs-kE-5" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="E4ltTXrUCnNlTAGxs-kE-5" value="Interface" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="110" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E4ltTXrUCnNlTAGxs-kE-6" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="E4ltTXrUCnNlTAGxs-kE-3" target="E4ltTXrUCnNlTAGxs-kE-2">
